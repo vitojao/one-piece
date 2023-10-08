@@ -82,7 +82,7 @@ background-color: rgba(0, 0, 0, 0.3);
 
 .botoes .botao {
     border: none;
-    background: none;
+    background: #000000;
     cursor: pointer;
     border-radius: 50%;
 }
